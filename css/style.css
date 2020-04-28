@@ -1,0 +1,39 @@
+.navbar {
+    background-color: #2B4F7C !important;
+}
+
+.navbar .nav-link {
+    color: #4211C8 !important;
+}
+
+.navbar .navbar-brand {
+    color: #4211C8 !important;
+}
+
+header {
+    background-color: #2C4326;
+    color: #D327F2;
+}
+
+main article {
+    background-color: #00DB01;
+    color: #0DB618;
+}
+
+footer {
+    width: 100%;
+    background-color: #0B7C42;
+    color: #C90C36;
+    bottom: 0;
+    position: absolute;
+}
+
+footer ul {
+    width: 100%;
+    list-style: none;
+    text-align: right;
+}
+
+footer ul li {
+    display: inline-block;
+}
